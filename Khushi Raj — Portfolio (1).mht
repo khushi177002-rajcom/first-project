@@ -1,0 +1,389 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://starlit-dasik-bc6ea4.netlify.app/
+Subject: =?utf-8?Q?Khushi=20Raj=20=E2=80=94=20Portfolio?=
+Date: Sat, 26 Sep 2026 23:18:57 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--hQR5XjAs2hElzBNAyTxB0rBVqqOGd4pyUjdvRNwsVV----"
+
+
+------MultipartBoundary--hQR5XjAs2hElzBNAyTxB0rBVqqOGd4pyUjdvRNwsVV----
+Content-Type: text/html
+Content-ID: <frame-9EABE0BC5ECA6D50A30C7C109138DEB2@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://starlit-dasik-bc6ea4.netlify.app/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-ff1290d3-6150-4579-8759-db77a03daaf2@mhtml.blink" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Khushi Raj — Portfolio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&amp;family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<nav>
+  <div class="navbar">
+    <div class="logo">Khushi<span class="grad-text">.</span></div>
+    <div class="navlinks">
+      <a href="https://starlit-dasik-bc6ea4.netlify.app/#home">Home</a><a href="https://starlit-dasik-bc6ea4.netlify.app/#about">About</a><a href="https://starlit-dasik-bc6ea4.netlify.app/#education">Education</a>
+      <a href="https://starlit-dasik-bc6ea4.netlify.app/#skills">Skills</a><a href="https://starlit-dasik-bc6ea4.netlify.app/#interests">Interests</a><a href="https://starlit-dasik-bc6ea4.netlify.app/#contact">Contact</a>
+    </div>
+    <button class="burger"><span></span><span></span><span></span></button>
+  </div>
+  <div class="mobmenu" id="mm">
+    <a href="https://starlit-dasik-bc6ea4.netlify.app/#home">Home</a><a href="https://starlit-dasik-bc6ea4.netlify.app/#about">About</a><a href="https://starlit-dasik-bc6ea4.netlify.app/#education">Education</a>
+    <a href="https://starlit-dasik-bc6ea4.netlify.app/#skills">Skills</a><a href="https://starlit-dasik-bc6ea4.netlify.app/#interests">Interests</a><a href="https://starlit-dasik-bc6ea4.netlify.app/#contact">Contact</a>
+  </div>
+</nav>
+
+<section class="hero" id="home">
+  <div class="glow c1"></div><div class="glow c2"></div>
+  <div class="wrap in">
+    <div class="ring"><div class="inner"></div></div>
+    <h1>Khushi Raj</h1>
+    <p class="role"><span class="grad-text">B.Tech Electronics &amp; Communication Engineering</span> Student</p>
+    <p class="intro">Engineering student passionate about technology, artificial intelligence, and web development — building a strong foundation while exploring how design and code come together to create meaningful, useful products.</p>
+    <div class="ctarow">
+      <a class="btn grad" href="https://starlit-dasik-bc6ea4.netlify.app/#about">View Profile</a>
+      <a class="btn outline" href="https://starlit-dasik-bc6ea4.netlify.app/#contact">Contact Me</a>
+    </div>
+  </div>
+</section>
+
+<section id="about">
+  <div class="wrap">
+    <div class="eyebrow">ABOUT</div>
+    <h2>Who I am</h2>
+    <div class="about-grid">
+      <div class="card">
+        <p style="color:var(--muted); font-size:.98rem;">I'm Khushi Raj, a B.Tech Electronics &amp; Communication Engineering student with a growing interest in artificial intelligence, web development, and creative design. I enjoy learning new tools, solving problems, and turning ideas into working projects — always looking for the next skill to pick up.</p>
+      </div>
+      <div class="card infolist">
+        <div><div class="k">Name</div>Khushi Raj</div>
+        <div><div class="k">Role</div>ECE Student</div>
+        <div><div class="k">Focus</div>AI &amp; Web Dev</div>
+        <div><div class="k">Email</div>khushi.raj@example.com</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="education">
+  <div class="wrap">
+    <div class="eyebrow">EDUCATION</div>
+    <h2>Academic background</h2>
+    <div class="tl">
+      <div class="tl-item">
+        <h3>B.Tech — Electronics &amp; Communication Engineering</h3>
+        <div class="meta">UIT, RGPV · 2026 – Present</div>
+        <span class="tag">In progress</span>
+      </div>
+      <div class="tl-item">
+        <h3>Class 12 — Science (PCM)</h3>
+        <div class="meta">Oxford Convent Hr. Sec. School · 2026</div>
+        <span class="tag">Completed</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="skills">
+  <div class="wrap">
+    <div class="eyebrow">SKILLS</div>
+    <h2>What I'm building</h2>
+    <div class="grid">
+      <div class="card skill"><h3>HTML</h3><div class="bar"><i style="width:55%"></i></div><div class="lvl">Learning</div></div>
+      <div class="card skill"><h3>Python</h3><div class="bar"><i style="width:50%"></i></div><div class="lvl">Learning</div></div>
+      <div class="card skill"><h3>Web Development</h3><div class="bar"><i style="width:60%"></i></div><div class="lvl">Developing</div></div>
+      <div class="card skill"><h3>Artificial Intelligence</h3><div class="bar"><i style="width:40%"></i></div><div class="lvl">Exploring</div></div>
+      <div class="card skill"><h3>Creative Design</h3><div class="bar"><i style="width:65%"></i></div><div class="lvl">Developing</div></div>
+      <div class="card skill"><h3>Digital Tools</h3><div class="bar"><i style="width:75%"></i></div><div class="lvl">Proficient</div></div>
+      <div class="card skill"><h3>Communication</h3><div class="bar"><i style="width:85%"></i></div><div class="lvl">Strong</div></div>
+      <div class="card skill"><h3>Problem Solving</h3><div class="bar"><i style="width:80%"></i></div><div class="lvl">Strong</div></div>
+    </div>
+  </div>
+</section>
+
+<section id="interests">
+  <div class="wrap">
+    <div class="eyebrow">INTERESTS</div>
+    <h2>What I care about</h2>
+    <div class="tagwrap">
+      <span>Artificial Intelligence</span><span>Web Development</span><span>Game Development</span>
+      <span>Creative Design</span><span>Technology</span><span>Communication</span>
+      <span>Learning New Skills</span><span>Badminton</span>
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="wrap">
+    <div class="eyebrow">CONTACT</div>
+    <h2>Let's connect</h2>
+    <div class="contact-grid">
+      <div class="card clinks">
+        <a href="mailto:khushi.raj@example.com">khushi.raj@example.com</a>
+        <a href="https://starlit-dasik-bc6ea4.netlify.app/#">linkedin.com/in/khushiraj</a>
+        <a href="https://starlit-dasik-bc6ea4.netlify.app/#">github.com/khushiraj</a>
+      </div>
+      <div class="card">
+        <form>
+          <input type="text" placeholder="Your name">
+          <input type="email" placeholder="Your email">
+          <textarea placeholder="Your message"></textarea>
+          <button class="btn grad" type="submit">Send Message</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>© 2026 Khushi Raj. All rights reserved.</footer>
+
+
+
+</body></html>
+------MultipartBoundary--hQR5XjAs2hElzBNAyTxB0rBVqqOGd4pyUjdvRNwsVV----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwWa-xo6eeI7fM.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwV6-xo6eeIw.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwWa-xo6eeI7fM.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwV6-xo6eeIw.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 800; font-display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwWa-xo6eeI7fM.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 800; font-display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwV6-xo6eeIw.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--hQR5XjAs2hElzBNAyTxB0rBVqqOGd4pyUjdvRNwsVV----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-ff1290d3-6150-4579-8759-db77a03daaf2@mhtml.blink
+
+@charset "utf-8";
+
+:root { --bg: #070a12; --bg2: #0c1120; --card: rgba(255,255,255,.045); --card-b: rgba(255,255,255,.09); --line: rgba(255,255,255,.09); --white: #f4f6fb; --muted: #9aa3b5; --cyan: #22d3ee; --purple: #a78bfa; box-sizing: border-box; padding-top: env(safe-area-inset-top,0px); padding-bottom: env(safe-area-inset-bottom,0px); }
+
+* { box-sizing: border-box; margin: 0px; padding: 0px; }
+
+html { scroll-behavior: smooth; scroll-padding-top: 76px; height: 100%; }
+
+body { background: var(--bg); color: var(--white); font-family: Inter, -apple-system, Arial, sans-serif; line-height: 1.6; overflow-x: hidden; }
+
+h1, h2, h3 { font-family: Sora, sans-serif; }
+
+a { color: inherit; text-decoration: none; }
+
+.grad-text { background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat: ; background-attachment: ; background-origin: ; background-color: ; background-clip: text; color: transparent; }
+
+.wrap { max-width: 1080px; margin: 0px auto; padding: 0px 24px; }
+
+.eyebrow { font-size: 0.75rem; letter-spacing: 0.14em; color: var(--cyan); font-weight: 600; margin-bottom: 10px; }
+
+section { padding: 90px 0px; }
+
+section h2 { font-size: 1.9rem; margin-bottom: 8px; }
+
+section .lede { color: var(--muted); max-width: 60ch; margin-bottom: 40px; }
+
+nav { position: fixed; top: 0px; left: 0px; right: 0px; z-index: 50; background: rgba(7, 10, 18, 0.7); backdrop-filter: blur(14px); border-bottom: 1px solid var(--line); }
+
+.navbar { display: flex; align-items: center; justify-content: space-between; padding: 16px 24px; max-width: 1080px; margin: 0px auto; }
+
+.logo { font-family: Sora, sans-serif; font-weight: 700; font-size: 1.05rem; }
+
+.navlinks { display: none; gap: 28px; font-size: 0.9rem; color: var(--muted); }
+
+.navlinks a:hover { color: var(--white); }
+
+.burger { display: flex; flex-direction: column; gap: 5px; background: none; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; cursor: pointer; padding: 6px; }
+
+.burger span { width: 22px; height: 2px; background: var(--white); display: block; }
+
+.mobmenu { display: none; flex-direction: column; padding: 10px 24px 20px; gap: 14px; border-top: 1px solid var(--line); font-size: 0.92rem; color: var(--muted); }
+
+.mobmenu.open { display: flex; }
+
+@media (min-width: 820px) {
+  .navlinks { display: flex; }
+  .burger { display: none; }
+}
+
+.hero { padding: 150px 0px 90px; position: relative; }
+
+.glow { position: absolute; width: 420px; height: 420px; border-radius: 50%; filter: blur(120px); opacity: 0.35; z-index: 0; }
+
+.glow.c1 { background: var(--cyan); top: -80px; right: -100px; }
+
+.glow.c2 { background: var(--purple); bottom: -60px; left: -120px; }
+
+.hero .in { position: relative; z-index: 1; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 22px; }
+
+.ring { width: 132px; height: 132px; border-radius: 50%; padding: 3px; background: conic-gradient(var(--cyan),var(--purple),var(--cyan)); }
+
+.ring .inner { width: 100%; height: 100%; border-radius: 50%; background: var(--bg2); border: 2px solid var(--bg); }
+
+.hero h1 { font-size: 2.5rem; font-weight: 800; letter-spacing: -0.01em; }
+
+.hero .role { color: var(--muted); font-size: 1.05rem; max-width: 46ch; }
+
+.hero .intro { color: var(--muted); font-size: 0.98rem; max-width: 56ch; }
+
+.ctarow { display: flex; gap: 14px; flex-wrap: wrap; justify-content: center; margin-top: 6px; }
+
+.btn { padding: 14px 26px; border-radius: 8px; font-weight: 600; font-size: 0.92rem; transition: transform 0.2s; }
+
+.btn:hover { transform: translateY(-2px); }
+
+.btn.grad { background: linear-gradient(90deg,var(--cyan),var(--purple)); color: rgb(8, 16, 26); box-shadow: 0 0 30px -8px var(--cyan); }
+
+.btn.outline { border: 1px solid var(--card-b); color: var(--white); }
+
+.card { background: var(--card); border: 1px solid var(--card-b); border-radius: 14px; padding: 24px; transition: transform 0.2s, border-color 0.2s; }
+
+.card:hover { transform: translateY(-4px); border-color: rgba(34, 211, 238, 0.35); }
+
+.about-grid { display: grid; gap: 20px; grid-template-columns: 1fr; }
+
+.infolist { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 18px; font-size: 0.9rem; }
+
+.infolist .k { color: var(--muted); font-size: 0.76rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 3px; }
+
+@media (min-width: 760px) {
+  .about-grid { grid-template-columns: 1.1fr 0.9fr; }
+}
+
+.tl { border-left: 2px solid var(--card-b); margin-left: 8px; }
+
+.tl-item { position: relative; padding: 0px 0px 34px 28px; }
+
+.tl-item:last-child { padding-bottom: 0px; }
+
+.tl-item::before { content: ""; position: absolute; left: -7px; top: 2px; width: 12px; height: 12px; border-radius: 50%; background: linear-gradient(90deg,var(--cyan),var(--purple)); }
+
+.tl-item h3 { font-size: 1.05rem; margin-bottom: 4px; }
+
+.tl-item .meta { color: var(--muted); font-size: 0.86rem; margin-bottom: 6px; }
+
+.tl-item .tag { display: inline-block; font-size: 0.74rem; color: var(--cyan); border: 1px solid rgba(34, 211, 238, 0.35); padding: 3px 10px; border-radius: 20px; }
+
+.grid { display: grid; gap: 16px; grid-template-columns: repeat(2, 1fr); }
+
+@media (min-width: 640px) {
+  .grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (min-width: 900px) {
+  .grid { grid-template-columns: repeat(4, 1fr); }
+}
+
+.skill h3 { font-size: 0.98rem; margin-bottom: 8px; }
+
+.bar { height: 5px; background: rgba(255, 255, 255, 0.08); border-radius: 6px; overflow: hidden; margin-bottom: 8px; }
+
+.bar i { display: block; height: 100%; background: linear-gradient(90deg,var(--cyan),var(--purple)); }
+
+.skill .lvl { font-size: 0.76rem; color: var(--muted); }
+
+.tagwrap { display: flex; flex-wrap: wrap; gap: 10px; }
+
+.tagwrap span { border: 1px solid var(--card-b); background: var(--card); padding: 9px 16px; border-radius: 20px; font-size: 0.88rem; }
+
+.grid3 { display: grid; gap: 18px; grid-template-columns: 1fr; }
+
+@media (min-width: 700px) {
+  .grid3 { grid-template-columns: repeat(3, 1fr); }
+}
+
+.proj-grid { display: grid; gap: 18px; grid-template-columns: 1fr; }
+
+@media (min-width: 700px) {
+  .proj-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+.proj h3 { font-size: 1.05rem; margin-bottom: 6px; }
+
+.proj p { color: var(--muted); font-size: 0.9rem; margin-bottom: 12px; }
+
+.proj .techs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+
+.proj .techs span { font-size: 0.72rem; color: var(--purple); border: 1px solid rgba(167, 139, 250, 0.35); padding: 3px 9px; border-radius: 20px; }
+
+.proj a.view { font-size: 0.86rem; font-weight: 600; color: var(--cyan); }
+
+.ach { border-style: dashed; color: var(--muted); text-align: center; font-size: 0.88rem; }
+
+.contact-grid { display: grid; gap: 24px; grid-template-columns: 1fr; }
+
+@media (min-width: 760px) {
+  .contact-grid { grid-template-columns: 0.9fr 1.1fr; }
+}
+
+.clinks a { display: block; padding: 12px 0px; border-bottom: 1px solid var(--line); font-size: 0.92rem; }
+
+.clinks a:hover { color: var(--cyan); }
+
+form input, form textarea { width: 100%; background: rgba(255, 255, 255, 0.03); border: 1px solid var(--card-b); color: var(--white); padding: 12px 14px; border-radius: 8px; font-family: inherit; font-size: 0.9rem; margin-bottom: 14px; }
+
+form textarea { resize: vertical; min-height: 100px; }
+
+form button { width: 100%; }
+
+footer { border-top: 1px solid var(--line); padding: 30px 0px; text-align: center; color: var(--muted); font-size: 0.82rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  .card, .btn { transition: none; }
+}
+------MultipartBoundary--hQR5XjAs2hElzBNAyTxB0rBVqqOGd4pyUjdvRNwsVV------
